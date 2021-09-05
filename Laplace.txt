@@ -1,0 +1,3 @@
+1. Buat Navbar
+2. Buat Jumbotron
+3. Buat Slide gambar
